@@ -1,0 +1,163 @@
+ {
+
+  "skills": [
+      {
+        "id": "1",
+        "src": "./img/React.png",
+        "title": "Frontend",
+        "description": "Advanced",
+         "url": "https://github.com/KatushabeBirabwa/portfolio1.git"
+      },
+      {
+        "id": "2",
+        "src": "./img/Node.png",
+        "title": "Backend",
+        "description": "Intermediate",
+        "url": "https://github.com/KatushabeBirabwa/crypto-app.git"
+      },
+      {
+        "id": "3",
+        "src": "./img/Full-stack.png",
+        "title": "FullStack",
+        "description": "Intermediate",
+        "url": "https://github.com/Birabwa/portfolio1.git"
+      },
+      {
+        "id": "4",
+        "src": "./img/Api3.png",
+        "title": "APIs Development",
+        "description": "Intermediate",
+        "url": "https://github.com/Birabwa/portfolio1.git"
+      }
+   ],
+
+"education": [
+  {
+    "id": 1,
+    "institution": "Grand Canyon University",
+    "degree": "Bachelor of Science in Software Development",
+    "startDate": "2020",
+    "endDate": "2024"
+  },
+  {
+    "id": 2,
+    "institution": "Monaco Technical Institute of Design & Technology, Monaco Uganda.",
+    "degree": "Department of Art & Design",
+    "startDate": "2012",
+    "endDate": "2015"
+  }
+],
+
+"software": [
+  {
+    "id": 1,
+    "name": "Java: Spring Boot | Hibernate"
+    
+  },
+  {
+    "id": 1,
+    "name": "C#: ASP.NET Core | Entity Framework"
+    
+  },
+  {
+    "id": 2,
+    "name": "JavaScript: React | Node.js | Express.js | Vue | Next.js"
+  },
+
+  {
+    "id": 3,
+    "name": "Databases: MySQL | PostgreSQL | MongoDB | SQLite"
+  },
+  {
+    "id": 1,
+    "name": "Tools: Html | CSS | Bootstrap | Tailwind CSS | SASS | RESTful APIs | Git | GitHub | Docker | Azure App Service | Postman | VS Code | IntelliJ IDEA"
+    
+  },
+
+   {
+    "id": 4,
+    "name": "Productivity: (Microsoft Office 365)"
+  }
+],
+
+"Personality": [
+  {
+    "id": 1,
+    "name": "Communicative"
+  },
+  {
+    "id": 2,
+    "name": "Creative"
+  },
+  {
+    "id": 3,
+    "name": "Punctual"
+  },
+  {
+    "id": 4,
+    "name": "Organized"
+  },
+  {
+    "id": 5,
+    "name": "Curiosity"
+  },
+  {
+    "id": 7,
+    "name": "Reliable"
+  },
+  {
+    "id": 8,
+    "name": "Accountable"
+  },
+  {
+    "id": 9,
+    "name": "Intellectual"
+  },
+  {
+    "id": 10,
+    "name": "Discipline"
+  },
+  {
+    "id": 11,
+    "name": "Collaborative"
+  }
+ 
+],
+"Hobbies": [
+  {
+    "id": 1,
+    "name": "Technology"
+  },
+ 
+  {
+    "id": 3,
+    "name": "Reading"
+  },
+ 
+  {
+    "id": 5,
+    "name": "Shopping"
+  },
+  
+  {
+    "id": 8,
+    "name": "photography"
+  },
+  
+  {
+    "id": 10,
+    "name": "Exercising"
+  },
+  {
+    "id": 11,
+    "name": "Cooking"
+  }
+ 
+],
+"Social Media": [
+  {
+    "id": 3,
+    "name": "LinkedIn"
+  }
+]
+ }
