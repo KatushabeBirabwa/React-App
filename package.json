@@ -1,7 +1,10 @@
 {
+  "homepage": "https://KatushabeBirabwa.github.io/react_app_main",
+
   "name": "react_app_main",
   "version": "0.1.0",
   "private": true,
+   
   "engines": {
     "node": ">=12.x"
   },
@@ -23,7 +26,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  
+
+
   "eslintConfig": {
     "extends": ["react-app", "react-app/jest"]
   },
