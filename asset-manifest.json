@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react_app_main/static/css/main.caf2d03f.css",
-    "main.js": "/react_app_main/static/js/main.339b6d04.js",
-    "index.html": "/react_app_main/index.html",
-    "main.caf2d03f.css.map": "/react_app_main/static/css/main.caf2d03f.css.map",
-    "main.339b6d04.js.map": "/react_app_main/static/js/main.339b6d04.js.map"
+    "main.css": "/KatushabeBirabwa/React_app-main.git/static/css/main.caf2d03f.css",
+    "main.js": "/KatushabeBirabwa/React_app-main.git/static/js/main.bbdcb30f.js",
+    "index.html": "/KatushabeBirabwa/React_app-main.git/index.html",
+    "main.caf2d03f.css.map": "/KatushabeBirabwa/React_app-main.git/static/css/main.caf2d03f.css.map",
+    "main.bbdcb30f.js.map": "/KatushabeBirabwa/React_app-main.git/static/js/main.bbdcb30f.js.map"
   },
   "entrypoints": [
     "static/css/main.caf2d03f.css",
-    "static/js/main.339b6d04.js"
+    "static/js/main.bbdcb30f.js"
   ]
 }
